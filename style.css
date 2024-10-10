@@ -1,0 +1,17 @@
+*{
+    background-color:rgb(161, 228, 158);
+}
+h1 {
+    color: red;
+    background-color: gold;
+}
+fieldset {
+    color: rgb(0, 85, 243);
+    background-color: rgb(180, 224, 224);
+}
+li {
+    color: rgb(219, 148, 184);
+}
+a{
+    color: rgb(253, 236, 2);
+}
